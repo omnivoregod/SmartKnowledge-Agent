@@ -1,4 +1,3 @@
-```markdown
 # SmartKnowledge-Agent 🤖
 **Intelligent Knowledge Base Agent Based on RAG and Custom ReAct Architecture**
 
@@ -22,4 +21,3 @@ The core highlight of the project is that it **does not rely on high‑level abs
 1. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
-```
